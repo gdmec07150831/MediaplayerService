@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        menu.add(0,1,0,"使用服务器播放音乐");
-        menu.add(0,2,0,"停止音乐播放器服务");
+        menu.add(0,1,0,"使用服务器播放音乐!");
+        menu.add(0,2,0,"停止音乐播放器服务!");
         return super.onCreateOptionsMenu(menu);
     }
 
